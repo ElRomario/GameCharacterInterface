@@ -1,0 +1,16 @@
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\bin\Debug\net5.0\HomeWorkGameCharacterInterface.exe
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\bin\Debug\net5.0\HomeWorkGameCharacterInterface.deps.json
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\bin\Debug\net5.0\HomeWorkGameCharacterInterface.runtimeconfig.json
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\bin\Debug\net5.0\HomeWorkGameCharacterInterface.runtimeconfig.dev.json
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\bin\Debug\net5.0\HomeWorkGameCharacterInterface.dll
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\bin\Debug\net5.0\ref\HomeWorkGameCharacterInterface.dll
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\bin\Debug\net5.0\HomeWorkGameCharacterInterface.pdb
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\obj\Debug\net5.0\HomeWorkGameCharacterInterface.csproj.AssemblyReference.cache
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\obj\Debug\net5.0\HomeWorkGameCharacterInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\obj\Debug\net5.0\HomeWorkGameCharacterInterface.AssemblyInfoInputs.cache
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\obj\Debug\net5.0\HomeWorkGameCharacterInterface.AssemblyInfo.cs
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\obj\Debug\net5.0\HomeWorkGameCharacterInterface.csproj.CoreCompileInputs.cache
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\obj\Debug\net5.0\HomeWorkGameCharacterInterface.dll
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\obj\Debug\net5.0\ref\HomeWorkGameCharacterInterface.dll
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\obj\Debug\net5.0\HomeWorkGameCharacterInterface.pdb
+C:\Users\ElRomario\source\repos\HomeWorkGameCharacterInterface\HomeWorkGameCharacterInterface\obj\Debug\net5.0\HomeWorkGameCharacterInterface.genruntimeconfig.cache
